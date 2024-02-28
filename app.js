@@ -204,7 +204,7 @@ app.post("/get-video-data", async (req, res) => {
       url: "https://models.readyplayer.me/6581a43656e8f9ee0ff87f05.glb?useMeshOptCompression=true&textureFormat=webp&morphTargets=ARKit",
       gender: "male",
       animations:
-        "https://menma-s3.s3.ap-south-1.amazonaws.com/animations/menma-animations-5.glb",
+        "https://video-rendering-service-bucket.s3.ap-south-1.amazonaws.com/animations/MaleAnimations.glb",
     },
     script:
       `नमस्कार,मेरा नाम जिवेश है और मैं बहुत एक्सासिटेड हूं आपको दो हज़ार चौबीस  के सबसे स्लिममेस्ट फ़ोन , वीवो वी थिरटी  सीरीज़, के बारे में बताने के लिए -  डिज़ाइन और बेहतरीन कैमरा  का कमाल का कॉम्बिनेशन।वीवो वी थिरटी प्रो ज़ेइस्स प्रोफैशनल पोर्ट्रेट कैमरा  के साथ आता है और ज़ेइस्स स्टाइल  कैमरा दिखाता है। इसका मतलब है कि अब आप अपने साधारण फोटोज़ को प्रो फोटोज़ में बदल सकते हैं। और न केवल यह, स्टूडियो क्वालीटी औरा लाइट आपको कम लाइट  में भी प्रोफैशनल लेवल  के क्लिक्स देता है | तो आप किस बात की प्रतीक्षा कर रहे हैं?  नीचे दिए गए नंबर पर मुझ से संपर्क करे ताकि आपको एक्सक्लूसिव प्री-बुकिंग ऑफर्स के बारे में पता चल सके।`,
